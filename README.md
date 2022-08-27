@@ -22,7 +22,7 @@ Dilarang Ambil tanpa izin itu namanya nyuri.
 © copyright 2021-2022
 - Masih Belajar Coding jadi Maaf Kalo error
 Scan nya.
-- Error/Bug lapor creator wa.me/6282221792667
+- Error/Bug lapor creator wa.me/6282154156241
 
 ## Mengunakan Bahasa pemrograman node.js
 - Buka replit terus import github dengan link ini
@@ -32,7 +32,7 @@ Scan nya.
 
 ## install Termux/rdp/vps/dll
 ```
-> git clone https://github.com/BOTCAHX/Session.js-json-Bot
+> git clone https://github.com/Amrbot01/session.git
 > cd Session.js-json-Bot
 > npm install
 > npm update
