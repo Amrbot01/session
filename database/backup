@@ -15,7 +15,7 @@ ${chalk.blue.italic('⏳ Connecting ke Whatsapp lu... Tunggu bentar.')}`);
 
   conn.on('open', async () => {
 		console.log(
-			chalk.green.bold('BOTCAH-X QR Code: '),
+			chalk.green.bold('Amrbot01-X QR Code: '),
 			'' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo()))
 		);
@@ -31,7 +31,7 @@ ${chalk.blue.italic('⏳ Connecting ke Whatsapp lu... Tunggu bentar.')}`);
 
 				'*!! Ini Rahasia Jangan Sebar Kode ini ' +
 					conn.user.name +
-					'* !!\n\n by Tio-BOTCAHBOTz',
+					'* !!\n\n by Tio-Amrbot01',
 				MessageType.text
 			);
 		} else {
@@ -39,7 +39,7 @@ ${chalk.blue.italic('⏳ Connecting ke Whatsapp lu... Tunggu bentar.')}`);
 				conn.user.jid,
 				'*!! Ini Rahasia Jangan Sebar Kode ini ' +
 					conn.user.name +
-					'* !!\n\n by Tio-BOTCAHBOTz',
+					'* !!\n\n by Tio-Amrbot01',
 				MessageType.text
 			);
 		}
