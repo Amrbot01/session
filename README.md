@@ -32,8 +32,8 @@ Scan nya.
 
 ## install Termux/rdp/vps/dll
 ```
-> git clone https://github.com/Amrbot01/session.git
-> cd Session.js-json-Bot
+> git clone https://github.com/Amrbot01/session
+> cd session
 > npm install
 > npm update
 > node .
@@ -41,22 +41,22 @@ Scan nya.
 
 `©2021-2022`
 ### Stat
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=BOTCAHX&theme=midnight-purple&show_icons=true) 
+![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Amrbot01X&theme=midnight-purple&show_icons=true) 
 
 ```
 - Made with <3 by Tio
-- BOTCAHX
-- Bila Mau memperbaiki Bug silahkan hubungi saya di WA 082221792667
+- AMIRR
+- Bila Mau memperbaiki Bug silahkan hubungi saya di WA 082154156241
 ```
 
 ## Wibubot-pricing/kloning.json
-**Pembaruan Repositori Direktori Dengan Nama BOTCAHX**. Pelajari Lebih Lanjut Di [Wibubot-pricing Untuk Repositori Git ↗︎](https://wibustore.vercel.app)
+**Pembaruan Repositori Direktori Dengan Nama Amirr**. Pelajari Lebih Lanjut Di [Wibubot-pricing Untuk Repositori Git ↗︎](https://wibustore.vercel.app)
 
 | Name | Status | Preview | Updated |
 | :--- | :----- | :------ | :------ |
-| **Session.js-json-Bot** | ✅ Ready ([Inspect](https://github.com/BOTCAHX/Session.js-json-Bot) | [Visit Preview](https://github.com/BOTCAHX/Session.js-json-Bot) | Jun 15, 2022 Rabu 10:28 WIB |
+| **session** | ✅ Ready ([Inspect](https://github.com/Amrbot01/session) | [Visit Preview](https://github.com/Amrbot01/session) | Jun 15, 2022 Rabu 10:28 WIB |
 
 | Name | Modal | Harga |
 |-----------|------------|-----------|
-| **Session.js-json-Bot** | Free Trial | Rp 0 |
-| **BOTCAHX/Session.js-json-Bot** | Unlimited Trial | Rp 0 |
+| **session** | Free Trial | Rp 0 |
+| **Amrbot01/session** | Unlimited Trial | Rp 0 |
